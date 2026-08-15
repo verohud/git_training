@@ -1,3 +1,7 @@
+<<<<<< HEAD
 Tento text jsme vlozili na lokalu
 
 
+=======
+Soubor - zmena na githubu (predtim byla zmena na lokalu, ale jeste nepushnuto)
+>>>>>>> 59818bcaf75718c1a5c4addca65087d9ffd35b52
