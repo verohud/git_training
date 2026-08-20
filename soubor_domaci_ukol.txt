@@ -1,0 +1,7 @@
+Domaci ukol
+1. Vytvoreni nove branche prikazem git checkout -b domaci_ukol
+2. na pocitaci vutvorit soubor prikazem touch soubor_domaci_ukol.txt
+3. vlozit do souboru text pomoci Vimu prikazem vim soubor_domaci_ukol.txt
+4. Push do githubu (git add - prida do stagingu, git commit - podepsat a poslat do local repo, git push - poslat fo githubu
+5. merge pomoci pull request do main main branch (nazvi pull request domaci_ukol pull request)
+
